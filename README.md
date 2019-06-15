@@ -12,4 +12,5 @@
 - PDF
   - [简体中文](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/)
   - [繁体中文](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/zi-dai-sheng-cun-shou-fan-zhong-wen/)
+
 **各分发渠道的版本号和细节存在差异，Telegraph 和 PDF 更新不及时，以 Gitbook 版为准。**
