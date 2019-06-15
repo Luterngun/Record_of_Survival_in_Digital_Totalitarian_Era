@@ -5,4 +5,4 @@
 
 **其他渠道：**
 
-- Telegraph: https://tinyurl.com/y6pgvwzh
+- Telegraph: https://tinyurl.com/
