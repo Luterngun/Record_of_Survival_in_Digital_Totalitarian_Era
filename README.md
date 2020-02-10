@@ -1,15 +1,7 @@
 # 数字极权时代生存手记
 
-《数字极权时代生存手记》 (*Record of Suvival in Digital Totalitarian Era*) 
+《数字极权时代生存手记》v2.0 (*Record of Suvival in Digital Totalitarian Era*) 
 
 
-**各分发渠道的版本号和细节存在差异，Telegraph 和 PDF 更新不及时，以 Gitbook 版为准。**
-
-- [Telegraph](https://telegra.ph/%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83%E6%97%B6%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%AE%B0-v11-06-15)
-- Gitbook
-  - [简体中文版](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/)
-  - [繁体中文版](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/zi-dai-sheng-cun-shou-fan-zhong-wen/)
-- PDF
-  - [简体中文](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/shu-zi-ji-quan-shi-dai-sheng-cun-shou-ji/)
-  - [繁体中文](https://g-rosidte.gitbook.io/record-of-survival-in-digital-totalitarian-era/v/zi-dai-sheng-cun-shou-fan-zhong-wen/)
-
+- [Matters](https://matters.news/@Luterngun/%E6%95%B8%E5%AD%97%E6%A5%B5%E6%AC%8A%E6%99%82%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%A8%98-2-0-%E7%89%88-%E5%89%8D%E8%A8%80%E5%8F%8A%E7%9B%AE%E9%8C%84-bafyreiedarompaldgqpw4omixzj6gvqcv47zswok46bclawjj6kke6yjre)
+- [Telegraph](https://telegra.ph/%E6%95%B8%E5%AD%97%E6%A5%B5%E6%AC%8A%E6%99%82%E4%BB%A3%E7%94%9F%E5%AD%98%E6%89%8B%E8%A8%9820-%E7%89%88-02-10)
